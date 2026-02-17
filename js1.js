@@ -1,1 +1,3 @@
-console.log("Hello World");
+x=null;
+y=undefined;
+console.log(y);
