@@ -12,7 +12,17 @@
 //     i++;
 // }
 
-let str="Vignesh AchARYA";
-for(let i of str){
-    console.log(i);
-}
+// let str="Vignesh AchARYA";
+// for(let i of str){
+//     console.log(i);
+// }
+
+let str="   Hello " ;
+let str2="   world";
+
+
+
+
+//template literals
+
+// console.log(`HI welocome from ${str}`);
