@@ -1,9 +1,7 @@
-// //Arithmetic operators
-let a=5;
-let b="5";
-// a--;
-// console.log(++a); 
-// console.log(a++);
+let age=5;
 
-//comparision operator
-console.log(a==b);
+if(age%2==0){
+    console.log("even ");
+}else{
+    console.log("Odd");
+}
