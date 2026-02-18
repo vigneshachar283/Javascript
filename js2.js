@@ -1,7 +1,3 @@
-let age=5;
+age=19;
 
-if(age%2==0){
-    console.log("even ");
-}else{
-    console.log("Odd");
-}
+console.log(age>18?"adult":"not adult");
