@@ -1,5 +1,5 @@
-let name=prompt("Enter The Full Name");
-let username="@"+name+name.length;
+// let name=prompt("Enter The Full Name");
+// let username="@"+name+name.length;
 
 
-console.log(username);
+// console.log(username);

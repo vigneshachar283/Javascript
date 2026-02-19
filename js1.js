@@ -1,8 +1,8 @@
-const student= {
-    name:"vignesh",
-    age:18,
-    isPass:true
+// const student= {
+//     name:"vignesh",
+//     age:18,
+//     isPass:true
 
-}
-student["isPass"]=false;
-console.log(student["isPass"]);
+// }
+// student["isPass"]=false;
+// console.log(student["isPass"]);
