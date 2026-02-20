@@ -1,6 +1,4 @@
-// let id=document.getElementById("heading");
-// console.log(id);
-// let cl=document.getElementsByClassName("headings");
+// let h2=document.querySelector("h2");
 
-// console.dir(document.querySelector("h1"));
-
+// console.log(h2.innerText);
+// h2.innerText=h2.innerText+" from apna college students";
