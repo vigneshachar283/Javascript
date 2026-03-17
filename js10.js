@@ -1,10 +1,10 @@
-console.log("one");
-console.log("two");
+function getdata(dataId,getnextdata){
+   setTimeout(()=>{
+    console.log("data",dataId);
+    getnextdata();
+   },2000);
+}
 
-setTimeout(()=>
-{
-    console.log("hello");
-},4000);
-
-console.log("three");
-console.log("three");
+getdata(1,()=>{
+    getdata(2);
+});
